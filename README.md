@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Rao Abdullah
 
-<!--
-**raoabdullah1080/raoabdullah1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Science learner on a 100-day mastery journey.  
+My background is in **medical**, but with the help of AI (Diago), I'm transitioning into one of the most powerful fields of the future.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- Python (Completed Basics + Libraries ✅)
+- Pandas, NumPy, Data Cleaning
+- Real-world projects (like Titanic EDA)
+- Data Visualization with Matplotlib & Seaborn
+- Stats, ML, Deep Learning (Coming soon 🔥)
+
+---
+
+## 💼 Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Titanic Survival Analysis](https://github.com/YourUsername/Titanic-EDA) | Analyzed survival trends using Pandas and visualized insights. | Pandas, Seaborn, Matplotlib |
+
+---
+
+## 🎯 Goals
+- 🧠 Become a Top 1% Data Scientist
+- 🌍 Crack Data Science interviews at Google or YouTube
+- 📚 Share my journey with others from non-tech backgrounds
+
+---
+
+## 💬 Let's Connect
+- 📫 Email: your-email@example.com
+- 🌐 Portfolio: Coming soon...
+
+---
+
+> “Power is gained by sharing knowledge, not hoarding it.”  
+– Rao Abdullah, Future Google Data Scientist
