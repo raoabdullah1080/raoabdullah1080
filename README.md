@@ -1,38 +1,56 @@
 # 👋 Hi, I'm Rao Abdullah
 
-I'm a passionate Data Science learner on a 100-day mastery journey.  
-My background is in **medical**, but with the help of AI (Diago), I'm transitioning into one of the most powerful fields of the future.
+I'm on a 100-day mission to master **Data Science & Analytics** from scratch—coming from a **medical background** and building my tech empire one day at a time.
+
+With my AI partner **Diago**, I'm learning everything from Python to Machine Learning, and turning real-world data into powerful insights.
 
 ---
 
-## 🧠 Currently Learning
-- Python (Completed Basics + Libraries ✅)
-- Pandas, NumPy, Data Cleaning
-- Real-world projects (like Titanic EDA)
-- Data Visualization with Matplotlib & Seaborn
-- Stats, ML, Deep Learning (Coming soon 🔥)
+## 🔥 What I'm Currently Learning:
+- ✅ Python Programming (Basics to Advanced)
+- ✅ Data Wrangling & Cleaning with Pandas
+- ✅ Data Visualization using Matplotlib & Seaborn
+- 🧠 Statistics for Data Science
+- 🚀 Real-world Data Analysis Projects
+- 📊 Preparing for Machine Learning
 
 ---
 
-## 💼 Projects
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Titanic Survival Analysis](https://github.com/YourUsername/Titanic-EDA) | Analyzed survival trends using Pandas and visualized insights. | Pandas, Seaborn, Matplotlib |
+## 📂 Projects
+
+| 📁 Project Title              | 💡 Description                                   | 🔗 Status      |
+|------------------------------|--------------------------------------------------|----------------|
+| Titanic Survival Analysis    | Exploratory data analysis on the Titanic dataset | Completed ✅    |
+| Coming Soon: COVID Trends    | Time-series data visualization project           | In Progress 🛠️ |
+| Coming Soon: House Prices    | Predictive ML project using regression           | Upcoming 🔜     |
 
 ---
 
-## 🎯 Goals
-- 🧠 Become a Top 1% Data Scientist
-- 🌍 Crack Data Science interviews at Google or YouTube
-- 📚 Share my journey with others from non-tech backgrounds
+## 🎯 My Goals
+- 🔍 Crack Data Scientist roles at **Google, YouTube**, or other top tech giants
+- 🧠 Build solid ML and AI foundations
+- 💼 Showcase impactful data projects
+- 🌍 Contribute to open-source data science repos
 
 ---
 
-## 💬 Let's Connect
-- 📫 Email: your-email@example.com
-- 🌐 Portfolio: Coming soon...
+## 📚 Ongoing Study Plan
+I'm following a strict **100-Day Data Scientist Master Roadmap** with:
+- Daily learning
+- Daily mini-projects
+- Weekly quizzes
+- Google-level interview prep
 
 ---
 
-> “Power is gained by sharing knowledge, not hoarding it.”  
-– Rao Abdullah, Future Google Data Scientist
+## 📫 Let's Connect
+- Portfolio: *(Coming Soon)*
+- LinkedIn: *(Coming Soon)*
+- Email: raoengr1080@gmail.com
+
+---
+
+> _“Success is not luck. It’s consistent, intentional effort — and I'm on that journey.”_
+
+---
+
