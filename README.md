@@ -21,7 +21,7 @@ With my AI partner **Diago**, I'm learning everything from Python to Machine Lea
 | 📁 Project Title              | 💡 Description                                   | 🔗 Status      |
 |------------------------------|--------------------------------------------------|----------------|
 | Titanic Survival Analysis    | Exploratory data analysis on the Titanic dataset | Completed ✅    |
-| Coming Soon: COVID Trends    | Time-series data visualization project           | In Progress 🛠️ |
+| ✅ 1. Advertising Dataset –  | Use TV advertising spend to predict Sales       | In Progress 🛠️ |
 | Coming Soon: House Prices    | Predictive ML project using regression           | Upcoming 🔜     |
 
 ---
@@ -45,7 +45,7 @@ I'm following a strict **100-Day Data Scientist Master Roadmap** with:
 
 ## 📫 Let's Connect
 - Portfolio: *(Coming Soon)*
-- LinkedIn: *(Coming Soon)*
+- LinkedIn: inkedin.com/in/rao-abdullah-2457252b0/
 - Email: raoengr1080@gmail.com
 
 ---
