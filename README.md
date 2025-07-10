@@ -1,56 +1,66 @@
-# 👋 Hi, I'm Rao Abdullah
+#  Muhammad Abdullah – Data Scientist Portfolio
 
-I'm on a 100-day mission to master **Data Science & Analytics** from scratch—coming from a **medical background** and building my tech empire one day at a time.
+Hi, I'm Muhammad Abdullah – a passionate data scientist with a strong foundation in Python, SQL, Machine Learning, and Data Visualization. I build end-to-end machine learning projects that solve real-world problems and uncover hidden insights in data.
 
-With my AI partner **Diago**, I'm learning everything from Python to Machine Learning, and turning real-world data into powerful insights.
-
----
-
-## 🔥 What I'm Currently Learning:
-- ✅ Python Programming (Basics to Advanced)
-- ✅ Data Wrangling & Cleaning with Pandas
-- ✅ Data Visualization using Matplotlib & Seaborn
-- 🧠 Statistics for Data Science
-- 🚀 Real-world Data Analysis Projects
-- 📊 Preparing for Machine Learning
+> “Turning raw data into smart decisions.”  
 
 ---
 
-## 📂 Projects
+## 🧠 Skills & Tools
 
-| 📁 Project Title              | 💡 Description                                   | 🔗 Status      |
-|------------------------------|--------------------------------------------------|----------------|
-| Titanic Survival Analysis    | Exploratory data analysis on the Titanic dataset | Completed ✅    |
-| ✅ 1. Advertising Dataset –  | Use TV advertising spend to predict Sales       | In Progress 🛠️ |
-| Coming Soon: House Prices    | Predictive ML project using regression           | Upcoming 🔜     |
-
----
-
-## 🎯 My Goals
-- 🔍 Crack Data Scientist roles at **Google, YouTube**, or other top tech giants
-- 🧠 Build solid ML and AI foundations
-- 💼 Showcase impactful data projects
-- 🌍 Contribute to open-source data science repos
+- **Languages & Tools**: Python, SQL, Git, Jupyter, Google Colab  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- **Techniques**: Data Cleaning, EDA, Feature Engineering, Regression, Classification, Model Evaluation  
+- **Soft Skills**: Problem-solving, Communication, Business Thinking
 
 ---
 
-## 📚 Ongoing Study Plan
-I'm following a strict **100-Day Data Scientist Master Roadmap** with:
-- Daily learning
-- Daily mini-projects
-- Weekly quizzes
-- Google-level interview prep
+## 📁 Projects
+
+### 1. 🎯 Titanic Survival Prediction – Logistic Regression
+Predict passenger survival using logistic regression.
+- **Tech**: Python, Pandas, Seaborn, Scikit-learn  
+- **Results**: 81% accuracy  
+- **Highlights**: Confusion matrix, precision-recall, EDA  
+- 📎 [Notebook](link_here) | 🔗 [GitHub Repo](link_here)
 
 ---
 
-## 📫 Let's Connect
-- Portfolio: *(Coming Soon)*
-- LinkedIn: inkedin.com/in/rao-abdullah-2457252b0/
-- Email: raoengr1080@gmail.com
+### 2. 🏠 House Price Prediction – Linear Regression
+Estimate house prices based on area, location, and other factors.
+- **Tech**: Python, Matplotlib, Linear Regression  
+- **Results**: R² score: 0.91  
+- **Highlights**: Feature selection, outlier handling, scatter plots  
+- 📎 [Notebook](link_here) | 🔗 [GitHub Repo](link_here)
 
 ---
 
-> _“Success is not luck. It’s consistent, intentional effort — and I'm on that journey.”_
+### 3. 💼 Placement Prediction – Logistic Regression on Imbalanced Data
+Predict whether a student will be placed based on academic profile.
+- **Tech**: Pandas, LogisticRegression, Confusion Matrix  
+- **Results**: 84% accuracy, Balanced class-weight  
+- **Highlights**: Real-world imbalanced classification  
+- 📎 [Notebook](link_here) | 🔗 [GitHub Repo](link_here)
 
 ---
+
+## 📈 In Progress
+
+- ✅ **Customer Churn Prediction**
+- ✅ **Email Spam Classifier using Naive Bayes**
+- ✅ **EDA on Netflix/Airbnb Dataset**
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rao-abdullah-2457252b0/)
+- 📫 Email: raoaq1080@gmail.com
+- 🌐 Portfolio site : [Coming soon]
+
+---
+
+## 🏁 Goal
+
+> To join a mission-driven team where I can apply data science to real business challenges — and never stop learning.
 
